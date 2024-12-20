@@ -2,9 +2,11 @@
 
 This repository contains a collection of Oracle SQL scripts and documents for various exercises in setting up, migrating, and managing databases using Oracle SQL Developer. These exercises aim to cover essential concepts such as querying for business purposes, migrating databases to the cloud, ensuring data integrity, automating processes with PL/SQL, and optimizing performance.
 
+
 ## Project Overview
 
 This project is designed to help users understand and practice key concepts of Oracle SQL, particularly in the context of an IT Asset Management (ITAM) database. The exercises included here guide users through a range of topics, from querying and data migration to ensuring data integrity and automating repetitive tasks. The final exercise focuses on optimizing database performance, an essential skill for real-world applications.
+
 
 ## Exercise Breakdown
 
@@ -41,18 +43,16 @@ The final exercise focuses on optimizing database performance. Users will explor
 
 - **Key Concepts**: Database performance tuning, indexing, query optimization, execution plans.
 
+
 ## Database Resources
+This repository also includes the following resources related to the IT Asset Management database, the AP schema, and database tables:
 
-This repository also includes the following resources related to the IT Asset Management database and the AP schema:
-
-- **IT Asset Management DB Diagram**  
-  - `IT_Asset_Management_DB_Diagram.pdf`: A visual representation of the IT Asset Management database structure.
+- **IT Asset Management DB Diagram**: A visual representation of the IT Asset Management database structure.
+- **AP Schema Diagram**: A visual representation of the AP schema.
+- **Create ITAM & Murach Tables**: Use both folders called `student_create_itam` and `create_Murach_tables` to create the required database tables
   
-- **AP Schema Diagram**  
-  - `AP_Schema_Diagram.pdf`: A visual representation of the AP schema.
 
 ## References
-
 The content and exercises in this repository are inspired by the following resource:
 
 - **Murach's Oracle SQL and PL/SQL for Developers (2nd Edition)** by Joel Murach.
