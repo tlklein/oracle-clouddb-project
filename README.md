@@ -62,4 +62,4 @@ The content and exercises in this repository are based by the following resource
 
 ---
 
-For questions, contributions, or feedback, feel free to open an issue or submit a pull request!
+This activity was completed as part of the **CIS 4338 Database Administration & Implementation** at the University of Houston under the guidance of Professor Susan Miertschin.
