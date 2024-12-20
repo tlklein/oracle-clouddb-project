@@ -1,5 +1,6 @@
 ![banner](https://datascientest.com/en/files/2023/10/sql_developer_datascientest-1024x512.png)
 
+
 # Oracle SQL Database Project
 
 This repository contains a collection of Oracle SQL scripts and documents for various exercises in setting up, migrating, and managing databases using Oracle SQL Developer. These exercises aim to cover essential concepts such as querying for business purposes, migrating databases to the cloud, ensuring data integrity, automating processes with PL/SQL, and optimizing performance.
@@ -55,7 +56,7 @@ This repository also includes the following resources related to the IT Asset Ma
   
 
 ## References
-The content and exercises in this repository are inspired by the following resource:
+The content and exercises in this repository are based by the following resources:
 
 - **Murach's Oracle SQL and PL/SQL for Developers (2nd Edition)** by Joel Murach.
 
