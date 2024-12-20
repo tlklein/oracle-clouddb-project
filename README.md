@@ -6,8 +6,6 @@ This repository contains a collection of Oracle SQL scripts and documents for va
 
 This project is designed to help users understand and practice key concepts of Oracle SQL, particularly in the context of an IT Asset Management (ITAM) database. The exercises included here guide users through a range of topics, from querying and data migration to ensuring data integrity and automating repetitive tasks. The final exercise focuses on optimizing database performance, an essential skill for real-world applications.
 
-
-
 ## Exercise Breakdown
 
 ### EX 3: Queries for a Business Purpose
@@ -58,10 +56,6 @@ This repository also includes the following resources related to the IT Asset Ma
 The content and exercises in this repository are inspired by the following resource:
 
 - **Murach's Oracle SQL and PL/SQL for Developers (2nd Edition)** by Joel Murach.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
